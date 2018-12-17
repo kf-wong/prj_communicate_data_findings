@@ -1,0 +1,9 @@
+*.zip
+*.csv
+*.xlsx
+
+dataset
+Project Template
+Example Project
+.ipynb_checkpoints
+others
