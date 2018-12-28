@@ -1,5 +1,6 @@
 *.csv
 *.xlsx
+dataset/*.csv
 
 Project Template
 Example Project
